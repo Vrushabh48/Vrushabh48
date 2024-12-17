@@ -1,3 +1,5 @@
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Vrushabh48.visitor-badge)
+
 - 👋 Hi, I’m @Vrushabh48
 - 👀 I’m tech enthusiast interested in developing full stack web applications and constantly seeking an opportunity to gain Practical Skills 
 - 🌱 I’m currently learning Deployments and AWS releated things.
